@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 221031238  |  Victor Augusto |
+| 221031238  |  Victor Augusto de Sousa Câmara|
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
