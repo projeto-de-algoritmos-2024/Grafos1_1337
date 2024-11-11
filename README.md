@@ -20,7 +20,7 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221031238  |  Victor Augusto |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
